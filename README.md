@@ -3,7 +3,7 @@
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-hcs/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gus.hcs/)
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gus-hcs&show_icons=true&theme=dark)
+![Gustavo Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=Gus-hcs&show_icons=true&theme=dark)
 
 ## Tecnologias que eu uso para aprendizagem no dia a dia 
 
