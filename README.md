@@ -5,7 +5,7 @@
 
 ![Gustavo Souza GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gus-hcs&show_icons=true&theme=dark)
 
-## Tecnologias que eu uso para aprendizagem no dia a dia 
+## Tecnologias que eu uso no dia a dia 
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
