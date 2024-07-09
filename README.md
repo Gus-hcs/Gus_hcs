@@ -26,3 +26,6 @@
 
 ## Contribuições
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Gus-hcs&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)
+
+
+
