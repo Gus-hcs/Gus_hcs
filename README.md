@@ -5,10 +5,10 @@
 - 💡 Fato curioso: Apaixonado por tecnologia e por aprender cada vez mais sobre esse mundo
 
 ## Most Used Languages
-(![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-hcs&layout=compact&theme=dark&v=1)
+(![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-hcs&layout=compact&theme=dark&v=2)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gus-hcs&show_icons=true&theme=dark&v=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gus-hcs&show_icons=true&theme=dark&v=2)
 
 ## Tecnologias que eu uso no dia a dia 
 <div style="display: inline_block"><br/>
