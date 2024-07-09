@@ -25,4 +25,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gus.hcs/)
 
 ## Contribuições
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gus-hcs&theme=github-dark&hide_border=true)
+![snake gif](https://github.com/Gus-hcs/Gus-hcs/blob/output/github-contribution-grid-snake.svg)
