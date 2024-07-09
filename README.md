@@ -5,7 +5,7 @@
 - 💡 Fato curioso: Apaixonado por tecnologia e por aprender cada vez mais sobre esse mundo
 
 ## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-hcs&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-hcs&layout=compact&theme=dark)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gus-hcs&show_icons=true&theme=dark)
@@ -25,7 +25,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gus.hcs/)
 
 ## Contribuições
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Gus-hcs&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)
-
-
-
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gus-hcs&theme=github-dark&hide_border=true)
